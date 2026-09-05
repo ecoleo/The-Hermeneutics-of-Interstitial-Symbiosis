@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "F:\文本计量分析模型工具\BERTopic\app\bertopic_excel_gui.py", line 1259, in _run_bertopic_job_core
+    records, skipped, analysis_name = collect_document_records(settings, emit)
+                                      ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "F:\文本计量分析模型工具\BERTopic\app\bertopic_excel_gui.py", line 691, in collect_document_records
+    raise ValueError(
+        "有效TXT只有 {} 篇。BERTopic至少需要5篇，正式分析建议50篇以上。".format(len(records))
+    )
+ValueError: 有效TXT只有 1 篇。BERTopic至少需要5篇，正式分析建议50篇以上。
