@@ -1,0 +1,16 @@
+{
+  "keyword": "故事新编",
+  "orders": [
+    "totalrank",
+    "pubdate"
+  ],
+  "pages_per_order": 8,
+  "collected": 279,
+  "by_order": {
+    "totalrank": 143,
+    "pubdate": 136
+  },
+  "fetched_at": "2026-09-11 23:42:55",
+  "elapsed_sec": 56.2,
+  "note": "仅取搜索接口公开字段；综合排序与最新排序的差异可作算法排序干预的代理指标。"
+}

@@ -1,0 +1,17 @@
+{
+  "subject_id": "2046909",
+  "book_title": "故事新编",
+  "status": "P",
+  "status_label": "读过",
+  "sorts": [
+    "new_score",
+    "time"
+  ],
+  "collected": 200,
+  "declared_total": 8790,
+  "coverage": 0.0228,
+  "logged_in": true,
+  "fetched_at": "2026-09-11T23:31:06",
+  "elapsed_sec": 11.3,
+  "comment_url": "https://book.douban.com/subject/2046909/comments/?status=P"
+}

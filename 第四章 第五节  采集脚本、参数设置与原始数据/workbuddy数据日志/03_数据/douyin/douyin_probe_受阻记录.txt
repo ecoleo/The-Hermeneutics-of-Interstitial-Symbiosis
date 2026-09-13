@@ -1,0 +1,8 @@
+=== SSR-search HTTP 200 len=6329
+  contains: verify
+  contains: 验证码
+  contains: sec_sdk
+  head: <html> <head> <meta charset="utf-8"> <meta   name="viewport"   content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"> <title>验证码中间页</title> <script charset="utf
+=== API-search-item HTTP 200 len=705
+  contains: verify
+  head: {"status_code":0,"aweme_list":null,"has_more":0,"cursor":10,"extra":{"now":1789181924000,"logid":"202609121058446ECE68E8E79F86939915","fatal_item_ids":[],"search_request_id":"","scenes":null},"log_pb"
